@@ -66,5 +66,5 @@ make
 ---
 
 <div align="center">
-  <i>Developed with ❤️ using C and SDL</i>
+  <i>Crafted with precision using C and SDL</i>
 </div>
